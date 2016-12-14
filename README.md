@@ -1,6 +1,6 @@
-# Sokoban_Py
+# BoxGame
 
-It's a Sokoban game written with pygame.
+It's a BoxGame  written with pygame.
 
 Code style is ugly and i don't want to refactor it .
 
@@ -16,7 +16,7 @@ install pygame
 
 clone the repo
 
-    # git clone https://github.com/KIDJourney/Sokoban_Pygame.git
+    # git clone https://github.com/cyysu/Boxgame.git
 
 then run the main.py
 
